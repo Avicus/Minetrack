@@ -1,20 +1,26 @@
 [
-	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC",
-		"category": "minigames"
-	},
-	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
-		"type": "PC",
-		"category": "minigames"
-	},
-	{
-		"name": "Hypixel PE",
-		"ip": "pe.hypixel.net",
-		"type": "PE",
-		"category": "pocket"
-	}
+        {
+                "name": "Avicus",
+                "ip": "avic.us",
+                "type": "PC",
+                "category": "minigames"
+        },
+        {
+                "name": "Overcast",
+                "ip": "us.oc.tc",
+                "type": "PC",
+                "category": "minigames"
+        },
+        {
+                "name": "Badlion",
+                "ip": "na.badlion.net",
+                "type": "PC",
+                "category": "minigames"
+        },
+        {
+                "name": "Kratous",
+                "ip": "krato.us",
+                "type": "PC",
+                "category": "minigames"
+        }
 ]
